@@ -1,1 +1,1 @@
-hello git hooks
+hello git hooks, this is my first project
