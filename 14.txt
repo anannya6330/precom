@@ -1,1 +1,1 @@
-password=authenticate12345678
+password=auth
