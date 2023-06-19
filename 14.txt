@@ -1,1 +1,1 @@
-password=hogwartsishome789%
+password=hogwarts
