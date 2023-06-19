@@ -1,1 +1,1 @@
-password=authenticating
+password=authenticate
