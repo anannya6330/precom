@@ -1,1 +1,1 @@
-password=thisispassword
+password=authenticating
