@@ -1,1 +1,1 @@
-password=check
+password=checkforsecretes
